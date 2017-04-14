@@ -1,0 +1,9 @@
+{
+    "mongo": {
+        "addr": "mongodb://127.0.0.1:50017/",
+        "db": "ip_proxy_db",
+        "collection": "pool"
+    },
+    "host": ":4333",
+    "proxyCheckURL":"https://movie.douban.com/tag/"
+}
